@@ -22,5 +22,6 @@ Where profit is calculated by:  ∑ (sellingPrice-costPrice) of the sold items m
 
 
 # To run the program - 
-Run - com.store.management.InventorySystem
+main method in -  com.store.management.InventorySystem
+
 Dependecy jdk 1.8 
