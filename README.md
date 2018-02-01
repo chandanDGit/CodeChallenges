@@ -1,4 +1,4 @@
-# Inventory Management 1
+# Inventory Management 
 
 Mr. X owns a store that sells almost everything you think about. Now he wants a inventory management system to manage his inventory. Mr. X feels that controlling his inventory through SMS from his mobile will be revolutionary. So as a prequel, he decides that he wants a system that accepts one line commands and performs the respective operation.
 
@@ -19,3 +19,8 @@ d) updateSell itemName quantity
 e) report
       	Whenever Mr. X wants to view his inventory list he issues the report command. This command should print the current inventory details in the specified format sorted by alphabetical order. Apart from printing the inventory it has to report on the profit made by Mr. X since last report generation.
 Where profit is calculated by:  ∑ (sellingPrice-costPrice) of the sold items multiplied by no. of items sold- costPrice of the deleted items.
+
+
+# To run the program - 
+Run - com.store.management.InventorySystem
+Dependecy jdk 1.8 
